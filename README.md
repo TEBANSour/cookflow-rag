@@ -106,7 +106,7 @@ Cada chunk incluye el campo `meta` con `dificultad`, `calorias`, `tiempo` e `idi
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/cookflow-rag.git
+https://github.com/TEBANSour/cookflow-rag.git
 cd cookflow-rag
 ```
 
